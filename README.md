@@ -3,7 +3,8 @@ I made a My Chemical Romance revenge album themed rockbox theme. Works on ipod 5
 Github is super confusing to me but i'm trying my best
 
 Instructions:
-I reccomend downloading as a zip file
+I reccomend downloading as a zip file 
+(click the green "code" button at the top of this page and select the dropdown option that says "download as zip") 
 
 Included is a .rockbox file, you can unzip it into your ipod, same as any other theme. Just search up how to manually install rockbox themes if you're not sure
 You just put the fonts in the fonts folder, icons in the icons folder, you get the idea. 
